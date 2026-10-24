@@ -462,3 +462,99 @@ a{
     font-size: 14px;
     color: rgb(150, 180, 195);
 }
+.contact{
+    height: 116px;
+    background-color: rgb(242, 36, 36);
+}
+.cbox{
+    display: flex;
+    align-items: center;
+    width: 1170px;
+    height: 116px;
+    margin: 0px auto;
+}
+.c-logo{
+    width: 215px;
+    font-size: 46px;
+    font-weight: bold;
+    color: white;
+}
+.c-item{
+    display: flex;
+    align-items: center;
+    width: 341px;
+    font-size: 28px;
+    color: white;
+}
+.c-item.first{
+    width: 367px;
+}
+.c-item i{
+    margin-right: 14px;
+    font-size: 40px;
+}
+.c-social{
+    display: flex;
+    margin-left: auto;
+}
+.c-social i{
+    margin-left: 46px;
+    font-size: 36px;
+    color: white;
+}
+.footer{
+    height: 414px;
+    background-color: rgb(32, 36, 52);
+    color: white;
+}
+.f-cols{
+    display: flex;
+    padding-top: 60px;
+}
+.f-col{
+    width: 190px;
+}
+.f-title{
+    font-size: 22px;
+    color: white;
+}
+.f-link{
+    margin-top: 18px;
+    font-size: 17px;
+    color: rgb(210, 214, 225);
+}
+.f-link.first{
+    margin-top: 30px;
+}
+.f-form{
+    position: relative;
+    width: 256px;
+    margin-top: 30px;
+}
+.f-input{
+    width: 224px;
+    height: 40px;
+    padding: 0px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgb(60, 66, 84);
+    font-size: 14px;
+    color: white;
+}
+.f-send{
+    position: absolute;
+    top: 12px;
+    left: 226px;
+    font-size: 16px;
+    color: white;
+}
+.f-bottom{
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    font-size: 15px;
+    color: rgb(190, 195, 210);
+}
