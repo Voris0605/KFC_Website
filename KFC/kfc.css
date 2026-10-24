@@ -506,6 +506,7 @@ a{
     height: 414px;
     background-color: rgb(32, 36, 52);
     color: white;
+    background-image: url("C:\Users\user\Downloads\image 32.png");
 }
 .f-cols{
     display: flex;
