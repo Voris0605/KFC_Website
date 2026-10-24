@@ -355,3 +355,110 @@ a{
     font-weight: bold;
     color: rgb(242, 36, 36);
 }
+.app{
+    height: 325px;
+    background-color: rgb(255, 184, 60);
+}
+.app-box{
+    position: relative;
+    width: 1170px;
+    margin: 0px auto;
+}
+.phones{
+    position: absolute;
+    top: -42px;
+    left: 4px;
+    width: 390px;
+    height: 483px;
+}
+.app-title{
+    position: absolute;
+    top: 62px;
+    left: 477px;
+    width: 540px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.stores{
+    position: absolute;
+    top: 232px;
+    left: 477px;
+    display: flex;
+}
+.store{
+    display: flex;
+    align-items: center;
+    margin-right: 30px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: black;
+    font-size: 16px;
+    color: white;
+}
+.store i{
+    margin-right: 10px;
+    font-size: 26px;
+}
+.stories{
+    height: 845px;
+    background-color: rgb(252, 238, 230);
+}
+.s-title{
+    position: absolute;
+    top: 123px;
+    left: 127px;
+    width: 560px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.s-sub{
+    position: absolute;
+    top: 262px;
+    left: 127px;
+    font-size: 18px;
+}
+.story{
+    position: absolute;
+    padding: 34px;
+    background-color: white;
+    box-shadow: 0px 6px 20px rgb(235, 220, 210);
+}
+.story i{
+    position: absolute;
+    top: 32px;
+    left: 30px;
+    font-size: 20px;
+    color: rgb(185, 225, 235);
+}
+.s1{
+    top: 313px;
+    left: 220px;
+    width: 282px;
+}
+.s2{
+    top: 169px;
+    left: 601px;
+    width: 376px;
+}
+.s3{
+    top: 441px;
+    left: 601px;
+    width: 282px;
+}
+.s-text{
+    padding-left: 34px;
+    font-size: 18px;
+}
+.s-name{
+    margin-top: 30px;
+    padding-left: 34px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.s-handle{
+    margin-top: 6px;
+    padding-left: 34px;
+    font-size: 14px;
+    color: rgb(150, 180, 195);
+}
